@@ -1,0 +1,4 @@
+
+stockbot/node_modules/*
+
+*.log

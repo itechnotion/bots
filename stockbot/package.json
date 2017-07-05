@@ -1,0 +1,15 @@
+{
+  "name": "stockbot",
+  "version": "1.0.0",
+  "description": "give value of stock",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Avkash Kakdiya",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.8.4",
+    "restify": "^4.3.0"
+  }
+}
